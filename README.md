@@ -111,11 +111,6 @@ jupyter notebook yyyyy.ipynb
 
 ![Dashboard Performa Retail](dashboard_performa_retail.png)
 
-*Atau menggunakan tag HTML untuk mengatur ukuran gambar:*
-```html
-<img src="dashboard_performa_retail.png" alt="Dashboard Performa Retail" width="800"/>
-```
-
 ## 📖 Kamus Data & Struktur Data
 
 ### Skema Transaksi (`transaksi.csv`)
