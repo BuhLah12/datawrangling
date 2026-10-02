@@ -21,6 +21,7 @@ for i in range(1,10001):
     data_transaksi.append({
         'order_id': f'ORD{i:05d}',
         'customer_id': f'CUST{random.randint(1, 10000):05d}',
+        'name': f'{fake.firts_name()}{fake.last_name()}',
         'order_date': order_date.strftime('%Y-%m-%d'),
         'total_amount': random.randint(25, 1000)*1000,
         'coupon_code': random.choice(coupons)
