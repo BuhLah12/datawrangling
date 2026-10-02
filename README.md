@@ -137,3 +137,6 @@ jupyter notebook yyyyy.ipynb
 
 ---
 *Dibuat secara otomatis untuk dokumentasi proyek data retail & logistik.*
+
+# Nama           : Haidar Luthfi Kosasih
+# Asal Jurusan   : S-1 Sains Data - Universitas Harkat Negeri
