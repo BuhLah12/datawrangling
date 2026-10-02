@@ -279,7 +279,7 @@ Jumlah Unik    : 4915
 Notebook menghasilkan file:
 
 ```text
-<img width="4781" height="3430" alt="dashboard_performa_retail" src="https://github.com/user-attachments/assets/054fcd88-96a1-4dbc-8b4c-de9a872b9943" />
+img width="4781" height="3430" alt="dashboard_performa_retail" src="https://github.com/user-attachments/assets/054fcd88-96a1-4dbc-8b4c-de9a872b9943" /
 
 ```
 
