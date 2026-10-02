@@ -1,0 +1,12 @@
+Nama Kolom,Tipe Data,Missing Values,Jumlah Unik,Contoh Nilai
+order_id,str,0,4915,"['ORD00006', 'ORD00007', 'ORD00008', 'ORD00010', 'ORD00011']"
+customer_id,str,0,2867,"['CUST09196', 'CUST03612', 'CUST00107', 'CUST05515', 'CUST01585']"
+name,str,0,4806,"['Artanto Wacana', 'Cager Hartati', 'Raina Riyanti', 'Nardi Saputra', 'Paramita Yuliarti']"
+order_date,datetime64[us],0,275,"[Timestamp('2026-01-14 00:00:00'), Timestamp('2026-08-03 00:00:00'), Timestamp('2026-05-23 00:00:00'), Timestamp('2026-04-21 00:00:00'), Timestamp('2026-07-14 00:00:00')]"
+total_amount,int64,0,969,"[228000, 484000, 802000, 129000, 392000]"
+coupon_code,str,0,4,"['NONE', 'DISCC20', 'DISC10', 'DISC 50']"
+customer_name,str,0,2855,"['H. Abyasa Thamrin', 'dr. Darmaji Hassanah', 'Harjasa Mangunsong', 'Drs. Fitria Waskita, S.Ked', 'T. Teddy Mahendra, M.TI.']"
+membership_tier,str,0,4,"['Platinum', 'Gold', 'Bronze', 'Silver']"
+city,str,0,99,"['Purwokerto', 'Semarang', 'Samarinda', 'Mojokerto', 'Sawahlunto']"
+tracking_number,str,0,4915,"['LOG-00006-ID', 'LOG-00007-ID', 'LOG-00008-ID', 'LOG-00010-ID', 'LOG-00011-ID']"
+delivery_status,str,0,4,"['CANCELLED', 'DELIVERED', 'PENDING', 'RETURNED']"
