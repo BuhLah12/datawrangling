@@ -107,10 +107,7 @@ jupyter notebook yyyyy.ipynb
 
 ---
 
-## 🖼️ Menampilkan & Push Gambar Dashboard (PNG)
-
-### 1. Menampilkan Gambar pada README.md
-Untuk menampilkan file `dashboard_performa_retail.png` langsung di dalam file Markdown ini, gunakan sintaks berikut:
+## 🖼️ Dashboard bar chart & pie chart
 
 ![Dashboard Performa Retail](dashboard_performa_retail.png)
 
@@ -119,30 +116,7 @@ Untuk menampilkan file `dashboard_performa_retail.png` langsung di dalam file Ma
 <img src="dashboard_performa_retail.png" alt="Dashboard Performa Retail" width="800"/>
 ```
 
-### 2. Cara Push Gambar PNG ke Repositori Git (GitHub/GitLab)
-Pastikan berkas `dashboard_performa_retail.png` sudah ada di folder direktori lokal Anda, lalu jalankan perintah Git berikut pada terminal:
-
-```bash
-# 1. Cek status repositori untuk memastikan berkas PNG terdeteksi
-git status
-
-# 2. Tambahkan gambar PNG dan README.md ke staging area
-git add dashboard_performa_retail.png README.md
-
-# 3. Lakukan commit pesan perubahan
-git commit -m "feat: tambahkan visualisasi dashboard performa retail dan dokumentasi README"
-
-# 4. Push berkas ke repositori remote (misal branch main atau master)
-git push origin main
-```
-
-> ⚠️ **Catatan penting:** Pastikan nama file `.png` di repositori cocok (*case-sensitive*) dengan path nama gambar yang dicantumkan pada kode Markdown.
-
----
-
 ## 📖 Kamus Data & Struktur Data
-
-Definisi rinci variabel dapat dilihat langsung pada file `kamus_data.csv`. Secara garis besar, berikut adalah struktur data utama proyek:
 
 ### Skema Transaksi (`transaksi.csv`)
 
